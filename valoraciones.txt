@@ -1,0 +1,10 @@
+VALORACIONES
+
+
+Integrante 1: Por mi parte el proyecto me ha ayudado a entender el funcionamiento de Github, así como la creación de repositorios y la subida de archivos. También he aprendido a añadir colaboradores a un repositorios para que puedan trabajar en el mismo.
+
+
+Integrante 2: El proyecto me ha ayudado a practicar los comando de GIT y el uso de Cdmod en la creación de bases de datos. También he aprendido un poco más sobre el uso de GitHub.
+
+
+Integrante 3: Desde mi punto de vista, el proyecto me ha ayudado a comprender el funcionamiento de los diferentes integrantes de un proyecto. He entendido con mayor facilidad la división de un proyecto en MODELO, VISTA Y CONTROLADOR encargándome de esta última. 
