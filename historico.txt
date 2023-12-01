@@ -1,0 +1,12 @@
+Histórico txt:
+
+
+ 01-12-2023
+
+Lucas Jaén Ponce (Integrante 1) crea el repositorio GRUPO4DAW23 en modo público el cual administrará. Seguidamente nos asocia al repositorio a David y a mi (Juan Antonio). Lucas procede a subir al repositorio los archivos relaccionado con la vista del proyecto (/app/templates) y los del Front-end (web/css + js + images). Finalmente lucas procederá a realizar el archivo 'valoraciones.txt' habiendo preguntado a cada integrante del grupo, su valoración al proyecto; previamente.
+
+David Rasero Martínez(Integrante 2) por otro lado empieza a crear la BBDD en su hosting en CDMON denominada alimentos42023. Realiza el despliegue del proyecto en su hosting haciendo uso de SSH y los comandos de GIT. Finalmente se ocupará de dejar por escrito en un .txt llamado 'instalacion.txt' los comandos que ha usado y pasará las credenciales de la base de datos al integrante 3 (Juan Antonio Aragón).
+
+Para finalizar Juan Antonio Aragón Andrades (Integrante 3) procederá a actualizar el archivo Config.php con las nuevas claves de la BBDD, obviamente ha asumido anteriormente los archivos de la clase controlador (web/index.php + app/Controller.php + Config.php). Por último, subirá el archivo 'historico.txt' el cual ha ido recogiendo las hazañas y acciones hechas por los integrantes a lo largo del proyecto.
+
+
