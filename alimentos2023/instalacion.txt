@@ -1,0 +1,10 @@
+Para asumir el modelo y el archivo de configuración(app/model.php) he entrado en
+CDMON, una vez dentro del hosting, creamos una base de datos denominada alimentos42023
+y le integramos la estructura de la tabla en SQL que muestra la actividad.
+Activo la funcionalidad cliente Git para gestionar versiones que no requiere de 
+un repositorio central y está diseñado para trabajar con diferentes copias.
+Despliego la carpeta alimentos42023 en mi hosting.
+Usando el comando git clone https://github.com/Haroshy/GRUPO4DAW23/tree/main/alimentos2023
+Agregamos y comiteamos los cambios con el archivo de la instalacion:
+git add instalacion.txt
+git commit -m "Añadir instrucciones de instalación"git 
